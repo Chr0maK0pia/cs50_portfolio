@@ -1,0 +1,11 @@
+Q1:
+I feel like 2018 was a great year for music there was this hopeful tone
+and lots of great rising artists. Foreground oranges and purples with a background of
+blue/pink
+Q2:
+While metrics of a song can point towards the feel of the song, unless you listen to it you
+can't get proper data. I think letting users categorize songs from an optional survey on the song
+and taking that data to categorize users music taste would be much more telling. Also the artist
+can give an inital feel of the song so it doesn't get stuck unlabeled and the the spotify alogrithim
+can recommed new/unknown songs to users who graviate towards the type of music the artist labeled
+it as.
